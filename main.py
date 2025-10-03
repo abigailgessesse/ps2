@@ -1,13 +1,6 @@
 import random
 
-# Today we are playing rock, paper, scissors! Since we need someone to practice with,
-# let's write a program that will play the game with us. We will write multiple functions to get this all working.
-# Go line by line and complete the TODOs and instructions in each function.
-
-# MAKE SURE TO RUN THE TESTS FOR EACH FUNCTION BEFORE MOVING ON TO THE NEXT ONE!
-# Each test that fails will directly effect your grade, so make sure to test your functions!
-
-# In order, the functions you will need to write are:
+# Required Functions:
 # get_user_choice
 # get_computer_choice
 # clean_input
